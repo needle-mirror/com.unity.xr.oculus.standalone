@@ -4,6 +4,11 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [2.38.4] - 2019-11-05
+
+Added package deprecation information.
+Bumped major version number to isolate deprecation messaging to packages targeting 2019.3+
+
 ## [1.38.4] - 2019-11-01
 
 No changes other than version.

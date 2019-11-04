@@ -1,5 +1,7 @@
 # About Oculus;
 
+**NOTE: Support for built-in VR will be removed in Unity 2020.1. Please update to the new Unity XR Plugin System.**
+
 The Oculus package enables support for building applications for Oculus supported devices. The package is supported through the native virtual reality support in Unity.
 More information about native virtual reality support in Unity can be found at: https://docs.unity3d.com/Manual/XR.html
 
@@ -14,11 +16,6 @@ More detail on the Virtual Reality SDK list can be found here: https://docs.unit
 
 For additional details on using Oculus with Unity or deploying to Gear VR, see the documentation here: https://docs.unity3d.com/Manual/VRDevices-Oculus.html
 
-# Technical details
-## Requirements
-This version of the Oculus package is compatible with the following versions of the Unity Editor:
- - 2018.3+
-
 ## Release Notes
 
 https://developer.oculus.com/downloads/package/unity-integration/
@@ -26,6 +23,7 @@ https://developer.oculus.com/downloads/package/unity-integration/
 ## Document revision history
 |Date|Reason|
 |---|---|
+|November 5, 2019|Deprecation.|
 |May 9, 2019|Clean up outdated info and links.|
 |April 19, 2018|First Official version of package.|
 |October 1, 2018|Updated Unity version information.|
